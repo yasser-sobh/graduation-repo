@@ -2,7 +2,7 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-# بيانات المستخدمين والمخرجات الفائتة
+
 users = [
     {
         "id": 1,
